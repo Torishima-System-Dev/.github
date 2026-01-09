@@ -1,11 +1,11 @@
 ---
 name: 新規開発・機能追加
 about: 新しい機能の提案や既存機能の改善依頼
-title: '【新規】'
+title: ''
 labels: 'enhancement'
 assignees: ''
 ---
-<!-- このテンプレートはGASからのissue登録フォームからも利用しています。変更する場合にはGAS側にも反映してください -->
+<!-- このテンプレートはIssue登録のための Google Formで利用しています。変更する場合にはGAS側にも反映してください -->
 
 ## 目的・実現したいこと
 <!-- PALCEHOLDER-1 -->
